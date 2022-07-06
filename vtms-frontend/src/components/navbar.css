@@ -1,0 +1,16 @@
+nav{
+    background-color: #05027A;
+    height: 100px;
+}
+
+nav .btn{
+    background-color: white;
+    color: #05027A;
+    margin:15px;
+    width: 100px;
+}
+
+nav img{
+    height: 80px;
+    width: 80px;
+}

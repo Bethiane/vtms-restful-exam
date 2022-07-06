@@ -1,0 +1,45 @@
+.login {
+  margin-top: 5em;
+}
+.left-content {
+  margin-top: 10em;
+}
+.descr {
+  margin-top: 3em;
+  font-weight: 500;
+}
+.left {
+  background-color: #05027A;
+  color: #fff;
+  height: 100vh;
+}
+
+.span-sign {
+  color: #05027A;
+}
+
+.form-control:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+
+.btn-primary.custom-btn{
+  background-color: #05027A;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  padding: 1em;
+  font-size: 1.2em;
+  font-weight: 500;
+  margin-top: 1em;
+}
+
+form{
+  background-color: #F7F8FA;
+  padding: 50px;
+}
+
+input{
+  height: 60px;
+}

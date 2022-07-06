@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Urbanist", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
